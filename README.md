@@ -6,4 +6,4 @@ Information about gatherings is as follows...
 
 |Date|Location|Info|
 |----|--------|----|
-|    |        |    |
+|Whenever|Whereever|Everything Fake|
