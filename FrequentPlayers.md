@@ -1,4 +1,5 @@
 Awful
+Awful Too
 Bastard
 Beginner
 Black
