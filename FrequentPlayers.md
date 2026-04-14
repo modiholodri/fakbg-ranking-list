@@ -3,10 +3,12 @@ Awful Too
 Bastard
 Beginner
 Black
+Brian
 Comet
 Expert
 Happy
 Hell
+John
 Lucky
 Master
 Meé
@@ -15,5 +17,6 @@ Moron
 Star
 Sucker
 Sun
+Tom
 Turnip
 Unlucky
