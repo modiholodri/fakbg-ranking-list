@@ -288,3 +288,4 @@
 |2026-04-14|Awful|Awful Too|5|
 |2026-04-15|Awful|Awful|5|
 |2026-04-15|Beginner|Bastard|5|
+|2026-04-15|Awful Too|Awful|5|
