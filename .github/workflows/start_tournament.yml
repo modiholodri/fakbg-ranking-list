@@ -1,11 +1,11 @@
-name: Start Tournament
+name: Upload Tournament
 
 on: 
   repository_dispatch: 
     types: [start_tournament]    
 
 jobs:
-  start_tournament:
+  upload_tournament:
     runs-on: ubuntu-latest
     steps:
       - name: Check Out Repo
@@ -32,5 +32,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add 'Tournament.html'
-          git commit -m 'Starting a new tournament'
+          git commit -m 'Uploading tournament'
           git push
