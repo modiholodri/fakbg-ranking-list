@@ -313,3 +313,4 @@
 |2026-05-01|Beginner|Bastard|5|
 |2026-05-07|Aaa|Bbb|5|
 |2026-05-07|Bbb|Beginner|5|
+|2026-05-07|Awful|Awful Too|5|
