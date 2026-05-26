@@ -23,7 +23,8 @@ jobs:
           
       - name: Update Frequent Players List
         run: |
-          echo "${{ steps.get_frequent_players_list.outputs.result }}" > "FrequentPlayers.md"
+          result="${{ steps.get_frequent_players_list.outputs.result }}"
+          echo -e "${result//\\n/\\n}" > "FrequentPlayers.md"
         
       - name: Commit Changes
         env:
