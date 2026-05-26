@@ -16,10 +16,10 @@ jobs:
         uses: actions/github-script@v8
         with:
           script: |
-            const frequent_players = github.event.client_payload.frequent_players_list;
-            console.log('____________________________');
-            console.log(frequent_players);
-            return frequent_players;
+            const frequent_players = `${{ github.event.client_payload.frequent_players_list }}`;
+            console.log(`____________________________`);
+            console.log(`${ frequent_players }`);
+            return `${ frequent_players }`;
 
       - name: Update Frequent Players List
         run: |
