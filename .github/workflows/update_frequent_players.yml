@@ -1,0 +1,36 @@
+name: Update Frequent Players
+
+on: 
+  repository_dispatch: 
+    types: [update_frequent_players]    
+
+jobs:
+  upload_tournament:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Out Repo
+        uses: actions/checkout@v6
+
+      - name: Get Frequent Players List
+        id: get_frequent_players_list
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const frequent_players = `${{ github.event.client_payload.frequent_players_list }}`;
+            console.log(`____________________________`);
+            console.log(`${ frequent_players }`);
+            return `${ frequent_players }`;
+          
+      - name: Update Frequent Players List
+        run: |
+          echo ${{ steps.get_frequent_players_list.outputs.result }} > "FrequentPlayers.md"
+        
+      - name: Commit Changes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add 'FrequentPlayers.md'
+          git commit -m 'Updating Frequent Players'
+          git push
