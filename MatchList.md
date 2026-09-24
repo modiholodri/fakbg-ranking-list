@@ -167,13 +167,13 @@
 |2025-10-20|Sun|Turnip|5|
 |2025-10-20|Sun|Moron|5|
 |2025-10-20|Sun|Unlucky|5|
-|2025-10-20|Awful|Bastard|5|
+|2025-10-20|Awful|Bastard †|5|
 |2025-10-20|Comet|Expert|5|
 |2025-10-20|Beginner|Black|5|
 |2025-10-20|Black|Expert|5|
 |2025-10-20|Happy|Awful|5|
 |2025-10-20|Comet|Beginner|5|
-|2025-10-20|Beginner|Bastard|5|
+|2025-10-20|Beginner|Bastard †|5|
 |2025-10-20|Awful|Black|5|
 |2025-10-20|Awful|Beginner|5|
 |2025-10-20|Happy|Comet|5|
@@ -181,16 +181,16 @@
 |2025-10-20|Comet|Happy|5|
 |2025-10-20|Black|Moron|5|
 |2025-10-20|Moron|Black|5|
-|2025-10-21|Bastard|Beginner|5|
+|2025-10-21|Bastard †|Beginner|5|
 |2025-10-21|Expert|Black|5|
-|2025-10-21|Awful|Bastard|5|
+|2025-10-21|Awful|Bastard †|5|
 |2025-10-21|Expert|Comet|5|
 |2025-10-22|Happy|Lucky|5|
-|2025-10-22|Bastard|Black|5|
+|2025-10-22|Bastard †|Black|5|
 |2025-10-22|Awful|Beginner|5|
-|2025-10-22|Bastard|Beginner|5|
+|2025-10-22|Bastard †|Beginner|5|
 |2025-10-22|Black|Awful|5|
-|2025-10-22|Bastard|Awful|5|
+|2025-10-22|Bastard †|Awful|5|
 |2025-10-22|Beginner|Black|5|
 |2025-10-22|Black|Beginner|5|
 |2025-10-22|Comet|Beginner|5|
@@ -204,7 +204,7 @@
 |2025-10-26|Star|Moron|5|
 |2025-10-26|Unlucky|Hell|5|
 |2025-10-26|Beginner|Turnip|5|
-|2025-10-26|Bastard|Lucky|5|
+|2025-10-26|Bastard †|Lucky|5|
 |2025-10-26|Black|Hell|5|
 |2025-10-27|Expert|Moron|5|
 |2025-10-27|Lucky|Master|5|
@@ -237,62 +237,62 @@
 |2025-11-24|Hell|Sun|5|
 |2025-11-24|Moon|Master|17|
 |2025-11-24|Black|Beginner|17|
-|2025-11-24|Bastard|Hell|13|
+|2025-11-24|Bastard †|Hell|13|
 |2025-11-24|Black|Lucky|13|
 |2025-11-24|Happy|Sucker|9|
 |2025-11-24|Unlucky|Moron|7|
 |2025-11-24|Star|Sucker|7|
 |2025-11-24|Black|Moon|5|
 |2025-11-24|Happy|Expert|5|
-|2025-11-24|Bastard|Comet|11|
+|2025-11-24|Bastard †|Comet|11|
 |2025-11-24|Lucky|Unlucky|3|
 |2025-11-24|Hell|Turnip|3|
 |2025-11-24|Beginner|Master|3|
 |2025-11-24|Moron|Sun|15|
 |2025-11-24|Moon|Unlucky|15|
-|2025-11-24|Awful|Bastard|15|
+|2025-11-24|Awful|Bastard †|15|
 |2025-11-24|Lucky|Happy|5|
-|2025-12-20|Awful|Bastard|5|
-|2025-12-20|Awful|Bastard|5|
-|2025-12-20|Awful|Bastard|5|
-|2025-12-20|Awful|Bastard|5|
-|2025-12-20|Awful|Bastard|5|
-|2025-12-20|Awful|Bastard|5|
-|2025-12-20|Awful|Bastard|5|
-|2025-12-21|Awful|Bastard|5|
-|2025-12-21|Awful|Bastard|5|
-|2025-12-21|Awful|Bastard|5|
-|2025-12-21|Awful|Bastard|5|
-|2025-12-21|Awful|Bastard|5|
-|2025-12-22|Awful|Bastard|5|
-|2025-12-22|Awful|Bastard|5|
-|2025-12-22|Awful|Bastard|5|
-|2025-12-22|Awful|Bastard|5|
-|2025-12-22|Awful|Bastard|5|
+|2025-12-20|Awful|Bastard †|5|
+|2025-12-20|Awful|Bastard †|5|
+|2025-12-20|Awful|Bastard †|5|
+|2025-12-20|Awful|Bastard †|5|
+|2025-12-20|Awful|Bastard †|5|
+|2025-12-20|Awful|Bastard †|5|
+|2025-12-20|Awful|Bastard †|5|
+|2025-12-21|Awful|Bastard †|5|
+|2025-12-21|Awful|Bastard †|5|
+|2025-12-21|Awful|Bastard †|5|
+|2025-12-21|Awful|Bastard †|5|
+|2025-12-21|Awful|Bastard †|5|
+|2025-12-22|Awful|Bastard †|5|
+|2025-12-22|Awful|Bastard †|5|
+|2025-12-22|Awful|Bastard †|5|
+|2025-12-22|Awful|Bastard †|5|
+|2025-12-22|Awful|Bastard †|5|
 |2026-01-12|Beginner|Awful|5|
-|2026-01-12|Awful|Bastard|5|
+|2026-01-12|Awful|Bastard †|5|
 |2026-01-12|Comet|Expert|5|
 |2026-01-12|Black|Expert|5|
-|2026-01-25|Bastard|Beginner|5|
-|2026-03-08|Awful|Bastard|5|
-|2026-03-08|Awful|Bastard|5|
-|2026-03-08|Awful|Bastard|5|
+|2026-01-25|Bastard †|Beginner|5|
+|2026-03-08|Awful|Bastard †|5|
+|2026-03-08|Awful|Bastard †|5|
+|2026-03-08|Awful|Bastard †|5|
 |2026-03-08|Awful|Beginner|5|
 |2026-03-09|Awful|Expert|5|
-|2026-03-30|Awful|Bastard|5|
-|2026-04-01|Awful|Bastard|5|
-|2026-04-02|Black|Bastard|5|
+|2026-03-30|Awful|Bastard †|5|
+|2026-04-01|Awful|Bastard †|5|
+|2026-04-02|Black|Bastard †|5|
 |2026-04-14|Brian|John|5|
 |2026-04-14|John|Tom|5|
 |2026-04-14|Tom|Brian|5|
 |2026-04-14|Awful|Awful Too|5|
 |2026-04-15|Awful|Awful|5|
-|2026-04-15|Beginner|Bastard|5|
+|2026-04-15|Beginner|Bastard †|5|
 |2026-04-15|Awful Too|Awful|5|
-|2026-04-15|Bastard|Awful|5|
+|2026-04-15|Bastard †|Awful|5|
 |2026-04-15|Beginner|Awful|5|
 |2026-04-15|Beginner|Awful|5|
-|2026-04-15|Bastard|Awful Too|5|
+|2026-04-15|Bastard †|Awful Too|5|
 |2026-04-15|Beginner|Awful Too|5|
 |2026-04-15|John|Brian|5|
 |2026-04-15|Tom|John|5|
@@ -301,23 +301,23 @@
 |2026-04-15|Tom|Brian|5|
 |2026-04-28|Awful|Awful Too|5|
 |2026-04-29|Aaa|Bbb|5|
-|2026-04-30|Awful|Bastard|5|
+|2026-04-30|Awful|Bastard †|5|
 |2026-05-01|Aaa|Bbb|5|
 |2026-05-01|Aaa|Bbb|5|
 |2026-05-01|Aaa|Awful|5|
 |2026-05-01|Aaa|Bbb|5|
-|2026-05-01|Awful|Bastard|5|
-|2026-05-01|Awful|Bastard|5|
+|2026-05-01|Awful|Bastard †|5|
+|2026-05-01|Awful|Bastard †|5|
 |2026-05-01|Bbb|Beginner|5|
 |2026-05-01|Expert|Brian|5|
-|2026-05-01|Beginner|Bastard|5|
+|2026-05-01|Beginner|Bastard †|5|
 |2026-05-07|Aaa|Bbb|5|
 |2026-05-07|Bbb|Beginner|5|
 |2026-05-07|Awful|Awful Too|5|
-|2026-05-11|Awful|Bastard|5|
-|2026-05-14|Awful|Bastard|5|
+|2026-05-11|Awful|Bastard †|5|
+|2026-05-14|Awful|Bastard †|5|
 |2026-05-15|Awful|Awful Too|5|
-|2026-05-15|Bastard|Beginner|5|
+|2026-05-15|Bastard †|Beginner|5|
 |2026-05-18|Aaa|Bbb|5|
 |2026-05-18|Aaa|Bbb|5|
 |2026-05-18|Bbb|Beginner|5|
