@@ -6,7 +6,7 @@ Ahahah
 asdf
 Awful
 Awful Too
-Bastard
+Bastard †
 Bbb
 Beginner
 Black
