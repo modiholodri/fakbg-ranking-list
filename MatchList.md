@@ -322,3 +322,4 @@
 |2026-05-18|Aaa|Bbb|5|
 |2026-05-18|Bbb|Beginner|5|
 |2026-05-28|A Zipfer|A Depp|5|
+|2026-09-24|Hell|Bastard †|5|
